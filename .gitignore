@@ -1,0 +1,5 @@
+# Ignore local npm packages
+node_modules
+
+# ignore VSC setting
+.vscode/*
