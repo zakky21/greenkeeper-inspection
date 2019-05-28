@@ -1,0 +1,19 @@
+{
+  "name": "greenkeeper-inspection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakky21/greenkeeper-inspection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakky21/greenkeeper-inspection/issues"
+  },
+  "homepage": "https://github.com/zakky21/greenkeeper-inspection#readme"
+}
