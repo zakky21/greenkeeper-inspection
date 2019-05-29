@@ -79,7 +79,6 @@
     "sass-loader": "7.1.0",
     "style-loader": "^0.23.1",
     "terser-webpack-plugin": "^1.2.4",
-    "url-polyfill": "git+https://github.com/taciknowledge/url-polyfill.git",
     "url-search-params": "^1.1.0",
     "uuid": "^3.0.1",
     "webpack": "^4.29.6",
