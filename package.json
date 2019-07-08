@@ -38,7 +38,7 @@
     "css-loader": "2.1.1",
     "csv-string": "3.1.5",
     "debug": "4.1.1",
-    "deepmerge": "3.2.0",
+    "deepmerge": "4.0.0",
     "document-offset": "1.0.4",
     "downloadjs": "1.4.7",
     "encoding-japanese": "1.0.29",
