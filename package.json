@@ -55,7 +55,7 @@
     "join-reducers": "0.0.2",
     "js-cookie": "2.2.0",
     "json-loader": "0.5.7",
-    "lodash": "4.17.11",
+    "lodash": "4.17.15",
     "map-reducer": "0.0.2",
     "memoize-decorator": "1.0.2",
     "moment": "2.24.0",
