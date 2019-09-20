@@ -64,7 +64,7 @@
     "prop-types": "15.7.2",
     "react": "16.8.6",
     "react-beautiful-dnd": "11.0.3",
-    "react-chartjs-2": "2.7.6",
+    "react-chartjs-2": "2.8.0",
     "react-dom": "16.8.6",
     "react-helmet": "5.2.1",
     "react-immutable-proptypes": "2.1.0",
