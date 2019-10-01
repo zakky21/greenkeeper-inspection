@@ -68,7 +68,7 @@
     "react-dom": "16.8.6",
     "react-helmet": "5.2.1",
     "react-immutable-proptypes": "2.1.0",
-    "react-input-autosize": "2.2.1",
+    "react-input-autosize": "2.2.2",
     "react-loading": "2.0.3",
     "react-redux": "7.0.3",
     "react-select": "3.0.3",
