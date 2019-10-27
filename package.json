@@ -30,7 +30,7 @@
     "bugsnag-js": "4.7.3",
     "bugsnag-react": "1.1.1",
     "bugsnag-sourcemap-webpack-plugin": "0.9.8",
-    "chart.js": "2.8.0",
+    "chart.js": "2.9.1",
     "classnames": "2.2.6",
     "color": "3.1.1",
     "comma-number": "2.0.1",
