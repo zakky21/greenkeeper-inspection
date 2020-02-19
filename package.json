@@ -44,7 +44,7 @@
     "encoding-japanese": "1.0.29",
     "error": "7.0.2",
     "es6-promise": "4.2.6",
-    "file-loader": "3.0.1",
+    "file-loader": "5.1.0",
     "get-window-size": "0.1.0",
     "history": "4.9.0",
     "html-react-parser": "0.7.1",
