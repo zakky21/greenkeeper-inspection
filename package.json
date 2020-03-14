@@ -85,7 +85,7 @@
     "webpack-cli": "3.3.2",
     "whatwg-fetch": "3.0.0",
     "yaml-loader": "0.5.0",
-    "yeoman-generator": "4.0.1"
+    "yeoman-generator": "4.7.2"
   },
   "homepage": "https://github.com/zakky21/greenkeeper-inspection#readme"
 }
