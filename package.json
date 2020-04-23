@@ -42,7 +42,7 @@
     "document-offset": "1.0.4",
     "downloadjs": "1.4.7",
     "encoding-japanese": "1.0.29",
-    "error": "7.0.2",
+    "error": "10.1.0",
     "es6-promise": "4.2.6",
     "file-loader": "3.0.1",
     "get-window-size": "0.1.0",
